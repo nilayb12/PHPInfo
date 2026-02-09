@@ -1,0 +1,2 @@
+# PHPInfo
+PHPInfo Dashboard
